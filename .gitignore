@@ -191,3 +191,5 @@ OpenCover/
 # Bin obj ignore folders
 /bin
 /obj
+
+/DevOps_1/bin
